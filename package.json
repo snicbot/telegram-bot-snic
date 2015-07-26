@@ -1,0 +1,24 @@
+{
+  "name": "snic-telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for the Smart Near-Infrared Control",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexsalas/snic-telegram-bot.git"
+  },
+  "keywords": [
+    "snic",
+    "bot",
+    "telegram"
+  ],
+  "author": "Alexander J. Salas B.",
+  "license": "GPL v3",
+  "bugs": {
+    "url": "https://github.com/alexsalas/snic-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/alexsalas/snic-telegram-bot"
+}
